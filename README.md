@@ -10,14 +10,14 @@ A comprehensive collection of reinforcement learning algorithms — classic meth
 ---
 ## 🍏 Deep methods
 
-### **Deep Reinforcement Learning (DRL)** 
-  - where an agent learns a policy using a neural network that is trained to maximize cumulative rewards through interaction with the environment.
+### **1. Deep Reinforcement Learning (DRL)** 
+  - Where an agent learns a policy using a neural network that is trained to maximize cumulative rewards through interaction with the environment.
   - Test environment: **Pendulum**
   - ⭐ Training process:
   - ![DRL](00.Images/DRL_training.gif)
 
-### **Weight Agnostic Neural Networks (WAN)** 
-  - a method that uses fixed network architectures and weights, relying on the structure of the network and activation functions rather than extensive training.
+### **2. Weight Agnostic Neural Networks (WAN)** 
+  - A method that uses fixed network architectures and weights, relying on the structure of the network and activation functions rather than extensive training.
   - Test environment: **Pendulum**
   - ⭐ Training process:
   - ![Wan](00.Images/WAN_training.gif)
