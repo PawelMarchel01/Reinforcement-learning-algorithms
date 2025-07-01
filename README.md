@@ -44,6 +44,7 @@ A comprehensive collection of reinforcement learning algorithms — classic meth
 <div align="center"> 
   <img src="00.Images/WAN_training.gif" alt="WAN"> 
 </div>
+
 ---
 
 ## 👨‍💻 Author
